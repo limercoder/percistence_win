@@ -1,7 +1,6 @@
 pers.cpp
 windows persistence via
 hijacking cryptography DLL path
-*/
 #include <windows.h>
 #include <string.h>
 
